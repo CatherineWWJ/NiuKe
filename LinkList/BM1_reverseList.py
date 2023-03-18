@@ -24,5 +24,3 @@ class Solution:
         head.next = None
         return tail
 
-if __name__ == '__main__':
-    
