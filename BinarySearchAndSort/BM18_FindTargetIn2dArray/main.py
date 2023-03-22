@@ -20,3 +20,5 @@ class Solution:
             else:
                 j = j+1
         return False
+
+# 分治思想：先分后治（实现方式：递归 / 迭代循环）
