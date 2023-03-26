@@ -11,3 +11,7 @@
 [heapq模块重载__lt__操作符](https://blog.csdn.net/baidu_27643275/article/details/88878612)
 
 [解决堆中元组优先级相同的情况](https://zhuanlan.zhihu.com/p/548036132)
+
+[队列Queue](https://blog.csdn.net/qq_52007481/article/details/125673224)
+
+[双端队列deque](https://blog.csdn.net/zqx951102/article/details/128208737)
