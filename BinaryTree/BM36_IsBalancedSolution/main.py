@@ -12,7 +12,7 @@ class Solution:
             return 0
         left = self.isBalance(root.left)
         right = self.isBalance(root.right)
-        if left == -1 or right == -1 or abs(left-right)>1: # 出现非平衡二叉树
+        if left == -1 or right == -1 or abs(left-right)>1: # 出现非平衡二叉树（特殊值标记法）
             return -1
         else:
             return max(left, right)+1
