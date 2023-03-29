@@ -15,3 +15,8 @@
 [队列Queue](https://blog.csdn.net/qq_52007481/article/details/125673224)
 
 [双端队列deque](https://blog.csdn.net/zqx951102/article/details/128208737)
+
+**sort函数**属于优化后的**快速排序**，复杂度为O(nlogn)
+
+堆结构的数组中索引为0的是堆顶元素，heapq默认是小顶堆，若要构造大顶堆，需要2步：1.入堆的元素取反 2.出堆的元素也取反
+
