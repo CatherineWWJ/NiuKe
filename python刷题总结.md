@@ -20,3 +20,4 @@
 
 堆结构的数组中索引为0的是堆顶元素，heapq默认是小顶堆，若要构造大顶堆，需要2步：1.入堆的元素取反 2.出堆的元素也取反
 
+最大公约数[gcd函数](https://blog.csdn.net/jiuguaqiao6494/article/details/119619431)
